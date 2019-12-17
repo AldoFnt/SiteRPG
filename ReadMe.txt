@@ -1,0 +1,11 @@
+Need to link to database (Everything below) 
+			 - Login
+			 - Register
+			 - Site 
+				- Character
+					   - Ficha
+					   - Bag/Gold
+				- Char
+					- New, Delete, Select
+				- Story
+					- Public Upload 
